@@ -292,6 +292,7 @@ html {
   width: 233px;
   height: 166px;
   margin-right: 15px;
+  border: 1px solid black;
 
   /* Positioning */
   margin-bottom: 15px;
